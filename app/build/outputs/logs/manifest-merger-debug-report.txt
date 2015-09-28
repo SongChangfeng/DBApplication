@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:5:5-62:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] D:\AndroidStudioProjects\DBApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] D:\AndroidStudioProjects\DBApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.chasong.dbapplication.MainActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:10:9-19:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:12:13-45
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:13:13-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.chasong.dbapplication.TripDaysActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:22:13-56
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:24:13-55
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:21:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:25:13-27:82
+	android:value
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:27:17-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:26:17-63
+activity#com.example.chasong.dbapplication.TripAddEditActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:31:13-65
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:32:13-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:30:13-48
+activity#com.example.chasong.dbapplication.TripDayAddEditActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:37:9-44:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:39:13-69
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:40:13-59
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:38:13-51
+activity#com.example.chasong.dbapplication.TripItemsActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:47:13-62
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:49:13-59
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:46:13-46
+activity#com.example.chasong.dbapplication.TripItemAddEditActivity
+ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:54:9-61:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:56:13-70
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml:55:13-52
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.0] D:\AndroidStudioProjects\DBApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] D:\AndroidStudioProjects\DBApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\DBApplication\app\src\main\AndroidManifest.xml

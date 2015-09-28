@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DB Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trip">TripActivity</string>
+    <string name="title_activity_trip_add_edit">TripAddEditActivity</string>
+    <string name="title_activity_trip_day_add_edit">TripDayAddEditActivity</string>
+    <string name="title_activity_trip_items">TripItemsActivity</string>
+    <string name="title_activity_trip_item_add_edit">TripItemAddEditActivity</string>
+</resources>
