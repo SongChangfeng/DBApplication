@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
 
                 updateList();
 
-                listView.setSelection(listView.getCount() - 1);
+//                listView.setSelection(listView.getCount() - 1);
                 listView.smoothScrollToPosition(listView.getCount() - 1);
 
             } else if (requestCode == GlobalValues.REQUEST_CODE_TRIP_EDIT) {
